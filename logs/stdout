@@ -1,0 +1,22 @@
+****************************************************
+2020-09-03 12:02:03.878509 : Running Integrator
+2020-09-03 12:02:03.878579 : Initializing PI Collector Configurations
+2020-09-03 12:02:03.878585 : Collecting Data
+2020-09-03 12:02:03.878588 : Collecting Recorded Attribute Data from \\C8-DEV-PI\Database1\Element1\QSEE
+2020-09-03 12:02:03.913707 : Performing a POST Request for http://analytics.qsee.io/api/product_score
+2020-09-03 12:02:05.337808 : Formatting QSEE Response to PI Data
+2020-09-03 12:02:05.337830 : Pushing analytics data to PI
+<Response [202]>
+2020-09-03 12:02:05.346938 : Integrator finished with no error
+****************************************************
+****************************************************
+2020-09-03 12:03:24.441959 : Running Integrator
+2020-09-03 12:03:24.442030 : Initializing PI Collector Configurations
+2020-09-03 12:03:24.442036 : Collecting Data
+2020-09-03 12:03:24.442038 : Collecting Recorded Attribute Data from \\C8-DEV-PI\Database1\Element1\QSEE
+2020-09-03 12:03:24.479051 : Performing a POST Request for http://analytics.qsee.io/api/product_score
+2020-09-03 12:03:25.674983 : Formatting QSEE Response to PI Data
+2020-09-03 12:03:25.675004 : Pushing analytics data to PI
+<Response [202]>
+2020-09-03 12:03:25.684508 : Integrator finished with no error
+****************************************************

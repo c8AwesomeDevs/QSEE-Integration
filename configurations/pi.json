@@ -1,0 +1,19 @@
+{
+	"PIWebAPIHost" : "scptotpivision.secil.pt",
+	"Authentication": {
+		"username": "secil\\OSIMLSA_srv",
+		"password": "Lke20#71BIGmt"
+	},
+	"ResourcePaths": [
+		"\\\\SCPTOTPIDA01\\Secil\\Out\u00e3o\\800 - Electrical Departments\\841 - Control Equipment\\Equipments\\QSEE"
+	],
+	"StreamSetParameters": {
+		"GET": {
+			"categoryName" : "QSEE Input"
+		},
+		"POST": {
+			"categoryName" : "QSEE Output"
+		}
+	}
+	
+}

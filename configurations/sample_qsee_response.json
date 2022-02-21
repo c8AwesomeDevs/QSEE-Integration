@@ -1,0 +1,26 @@
+{
+    "quality_par": "78.9",
+    "predicted": "-999",
+    "optimal": "-1",
+    "percentile": "-1",
+    "prediction": "-999",
+    "token": "v365465464",
+    "productID": "2d35v34t4645",
+    "timestamp": "08/12/20 09:33",
+    "productSN": 0,
+    "quality_prob": "-1",
+    "influencers": {
+        "key1": -1.0,
+        "key2": -1.0,
+        "key3": -1.0,
+        "key4": -1.0,
+        "key5": -1.0
+    },
+    "optimum_influencers": {
+        "optimum_influencer1": -1.0,
+        "optimum_influencer2": -1.0,
+        "optimum_influencer3": -1.0,
+        "optimum_influencer4": -1.0,
+        "optimum_influencer5": -1.0
+    }
+}
